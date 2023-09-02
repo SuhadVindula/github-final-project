@@ -11,3 +11,11 @@ A calculator that calculates simple interest given principal, annual rate of int
     Output
     
        simple interest = p*t*r
+
+## The Current Version 
+
+Version 1.0.0
+
+## Licence
+
+re-frame is [Apache 2.0 licenced](license.txt)
